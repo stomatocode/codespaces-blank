@@ -5,6 +5,10 @@
           "my_org/my_repo": {
             "permissions": {
               "issues": "write-all"
+              "actions": "write"
+              "checks": "write"
+              "pages": "write"
+              "contents": "write"
             }
           }
         }
